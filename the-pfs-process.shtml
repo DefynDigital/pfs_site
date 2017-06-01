@@ -1,0 +1,53 @@
+<!--#include virtual="includes/top.html"-->
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+
+	<title>The PFS Process | PFS Financial Services - Home Loans | Commercial Loans | Business Loans</title>
+
+<!--#include virtual="includes/header_and_nav.html"-->
+				
+				<div id="pageContent">
+					<div id="breadCrumb"><p><a href="index.shtml">Home &raquo;</a> <a href="why-pfs.shtml">Why PFS &raquo;</a> The PFS Process</p></div>
+					<h1>The PFS Process</h1>
+					<div id="intro">
+						<img src="/includes/templateimages/icons/pfs-process.png" alt="The PFS Process" />
+						<p class="introTxt">We have a regimented and systemised approach to our business. This allows us to deliver efficient and stress free results to our customers. We pride ourselves on delivering a positive and less stressful experience in organising a loan. We don't promise the world, we just focus on the simple things like communication, full disclosure, and realistic time frames.</p>
+						<br class="clear" />
+					</div>
+					<div id="contactTxt">
+  					<h2>Step 1.</h2>
+                      <p>Find out what you are after; purchase price, loan amount etc.</p>
+                      
+                      <h2>Step 2.</h2>
+                      <p>Analyse your financial position and borrowing capacity.</p>
+                      
+                      <h2>Step 3.</h2>
+                      <p>Present to you a purchase/refinance overview. This looks at the costs and repayments relevant to your transaction.</p>
+                      
+                      <h2>Step 4.</h2>
+                      <p>Discuss product options; Variable, Fixed, 100% Offset Account etc.</p>
+                      
+                      <h2>Step 5.</h2>
+                      <p>Present 2-3 suitable bank options and discuss features, positives, negative etc.</p>
+                      
+                      <h2>Step 6.</h2>
+                      <p>Discuss repayment options and debt reduction strategies.</p>
+                      
+                      <h2>Step 7.</h2>
+                      <p>Leave you with initial information and email additional information to assist you with your decision.</p>
+                      
+                      <h2>Step 8.</h2>
+                      <p>Loan application.  We take care of all your paperwork, structure the loan and then send to the bank.</p>
+                      
+                      <h2>Step 9.</h2>
+                      <p>From this point until settlement we do all the chasing with the bank for you.  We organise your loan approval, valuations, Deposit Bond, First Home Buyers Grant and everything required from a finance perspective to allow you to settle on a house/loan.</p>
+                      
+                      <h2>Step 10.</h2>
+                      <p>We maintain a relationship with you throughout the duration of the loan.  Any loan changes, increases or future property purchases can be done via us, whom you already know and have a relationship with.</p>
+					</div>
+
+					<br class="clear" />
+				</div>
+
+<!--#include virtual="includes/footer.html"-->	

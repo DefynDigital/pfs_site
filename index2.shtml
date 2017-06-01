@@ -1,0 +1,74 @@
+<!--#include virtual="includes/top.html"-->
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="PFS is a multi-award winning mortgage broker in Sydney's Hills District. We'll help you select a loan suited to your needs and circumstances, and see it through from application to settlement." />
+
+	<title>PFS Financial Services - Home Loans | Commercial Loans | Business Loans</title>
+
+<!--#include virtual="includes/header_and_nav2.html"-->
+				
+				<div id="homeContent">
+					<div id="homeContentLeft">
+						<object wmode="transparent">
+							<param value="/animation.swf" name="movie" />
+							<embed height="208" width="660" src="/animation.swf" wmode="transparent"></embed>
+						</object>
+						<div id="homeMainContent">
+							<h1>PFS Financial Services</h1>
+							<p class="introTxt">We are a multi-award winning brokerage based in Bella Vista, the heart of Sydney&#146;s growing Hills District. Many brokers claim to have the &#145;best service&#146;, but few have actually been awarded as the best like we have!</p>
+							<div id="homeContentFeaturesWithBorder">
+								<a href="home-and-investment-loans.shtml"><img src="includes/templateimages/icons/home-and-investment-loans.png" alt="Home &amp; Investment Loans" /></a>
+								<h2><a href="home-and-investment-loans.shtml">Home &amp; Investment Loans</a></h2>
+								<p>For purchase of a residential loan or residential investment property.
+								<br /><a href="home-and-investment-loans.shtml" class="more">Read More &raquo;</a></p>
+								<hr />
+								<a href="commercial-loans.shtml"><img src="includes/templateimages/icons/commercial-loans.png" alt="Commercial Loans" /></a>
+								<h2><a href="commercial-loans.shtml">Commercial Loans</a></h2>
+								<p>Purchase of factory units, purchase of office spaces and shops, warehouses, land, or refinancing any of these.
+								<br /><a href="commercial-loans.shtml" class="more">Read More &raquo;</a></p>
+							</div>
+							<div id="homeContentFeatures">
+								<a href="business-loans.shtml"><img src="includes/templateimages/icons/business-loans.png" alt="Business Loans" /></a>
+								<h2><a href="business-loans.shtml">Business Loans</a></h2>
+								<p>For purchasing a private business or franchise, cash flow funding, overdrafts.
+								<br /><a href="business-loans.shtml" class="more">Read More &raquo;</a></p>
+								<hr />
+								<a href="car-and-equipment-loans.shtml"><img src="includes/templateimages/icons/car-and-equipment-loans.png" alt="Car &amp; Equipment Loans" /></a>
+								<h2><a href="car-and-equipment-loans.shtml">Car &amp; Equipment Loans</a></h2>
+								<p>Car Loans, Heavy vehicle finance, boat loans &amp; equipment finance (factory equipment, computers, &amp; more)
+								<br /><a href="car-and-equipment-loans.shtml" class="more">Read More &raquo;</a></p>										
+							</div>
+							
+							<br class="clear" />
+							
+							<h2><a href="what-is-a-mortgage-broker.shtml">What <em>IS</em> a Mortgage Broker?</a></h2>
+							<p>Simply put, a mortgage broker is an medium between a client (you) and a panel of banks and lenders. Unlike your bank's consultant, we don't work for a finance provider, so we&#146;re free to search a pool of banks and lenders to find the loan that best suits you and your needs. <a href="what-is-a-mortgage-broker.shtml">Read More &raquo;</a></p>
+
+							<h2><a href="contact-us.shtml">Questions? We have answers. Call us!</a></h2>
+							<p>We pride ourselves on our customer service. Call us, and you&#146;ll speak to a real person&ndash;not a machine. If you have questions about our services, what we can do for you, or if you would like make an appointment to talk with a qualified PFS mortgage broker, <strong>call us on 1300 368 917</strong>. You can also <a href="/contact-us.shtml">send us an e-mail online &raquo;</a></p>
+							<div class="affiliateLogos">
+								 <a href="http://www.mfaa.com.au/" target="_blank"><img src="includes/templateimages/mfaaLogo.png" alt="MFAA Approved Broker" title="MFAA Approved Broker" /></a>
+								 <a href="http://www.planaustralia.com.au/" target="_blank"><img src="/includes/templateimages/PLAN_AU_AccMem_240.jpg" alt="Accredited Member of PLAN Australia" title="Accredited Member of PLAN Australia" /></a>
+							</div>
+						</div>
+					</div>
+					<div id="homeContentRight">
+						<h2><a href="news.shtml"><img src="includes/templateimages/news-col-bg.gif" alt="Latest News" title="Latest News" /></a></h2>
+						<img src="includes/templateimages/news-image.jpg" alt="" />
+						<div id="homeContentNews">
+							<h3><a href="/news.shtml#finance-update-march2011">March 2011 - Finance Update</a></h3>
+							<p>The last few months has seen competition slowly creep back into the marketplace. Loan to Value ratios (LVR's) have increased, rates are cheaper and banks have gone to war on price. We have also seen the introduction of new national credit laws and tougher legislation in the lending industry. This is all about delivering and enforcing 'responsible lending'. <br /><a href="/news.shtml#finance-update-march2011">Read More &raquo;</a></p> 
+							<h3><a href="/news.shtml#mortgage-news-december-2010">Mortgage News</a></h3>
+							<p>After a 0.25 per cent hike to the official cash rate in November, the Reserve Bank of Australia left rates on hold this month - much to the delight of home owners and prospective buyers across the country.</p>
+							<p>With Christmas now just around the corner, any extra cash in the household budget that would have been channelled into additional mortgage repayments can now be spent on Christmas essentials. <br /><a href="/news.shtml#mortgage-news-december-2010">Read More &raquo;</a></p>
+							<h3><a href="news.shtml#new-website">PFS Launches New Online Presence</a></h3>
+							<p>Here at PFS we are very excited about the launch of our brand new website.</p>
+							<p>Keep an eye on our news section for industry updates and company news, and check out our <a href="loans.shtml">Loans</a> section and find out more about what we do. We'll also be introducing calculators to help you find what you are after online! <br /><a href="news.shtml#new-website">Read More &raquo;</a></p>
+							<br />
+							<a href="news.shtml"><img src="includes/templateimages/read-older-news.gif" alt="Read Older News Articles" /></a>
+						</div>
+					</div>
+					<br class="clear" />
+				</div>
+
+<!--#include virtual="includes/footer.html"-->				

@@ -1,0 +1,39 @@
+<!--#include virtual="includes/top.html"-->
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+
+	<title>Car and Equipment Loans | PFS Financial Services - Home Loans | Commercial Loans | Business Loans</title>
+
+<!--#include virtual="includes/header_and_nav.html"-->
+				
+				<div id="pageContent">
+					<div id="breadCrumb"><p><a href="index.shtml">Home &raquo;</a> <a href="loans.shtml">Loan Types &raquo;</a> Car and Equipment Loans</p></div>
+					<h1>Car and Equipment Loans</h1>
+					<div id="intro">
+						<img src="/includes/templateimages/icons/car-and-equipment-loans.png" alt="Car &amp; Equipment Loans" />
+						<p class="introTxt">We can assist you in finding the right loan for the purchase of new and used cars, heavy vehicles and boats. We can also help with brokering loans for specialised needs, including factory and medical equipment, computers, software, general machinery and more.</p>
+						<br class="clear" />
+					</div>					
+					
+					<br class="clear" />
+					
+					<div id="testimonialBanner"><img src="/images/testimonials/car-and-equipment-loans.gif" alt="Even after my loans had been approved and finalized you continued to communicate with me providing support and advise. I sincerely appreciate your responsiveness and the way you conduct business." title="Even after my loans had been approved and finalized you continued to communicate with me providing support and advise. I sincerely appreciate your responsiveness and the way you conduct business." /></div>
+					
+					
+					<div id="txtWithBg">
+						<div id="txtWithBgBtm">
+							<img src="/images/houses.jpg" alt="" />
+							<br /><h2>We can help broker car &amp; equipment loans for:</h2>
+							<ul class="fullwidth">
+								<li class="introTxt">Secured Car Loans - new and used vehicles</li>
+								<li class="introTxt">Equipment Finance - Factory Equipment, Cranes, Hoists, Medical Equipment, Computers, Computer software, general machinery etc.</li>
+								<li class="introTxt">Heavy Vehicle Finance - Trucks, Excavators, Bobcats, Tractors, Backhoes etc.</li>
+								<li class="introTxt">Boat Loans - Yachts, Luxury Vessels, Fishing Boats, Wake Boarding Boats etc.</li>
+							</ul>
+							<br class="clear" />
+						</div>
+					</div>
+				</div>
+
+<!--#include virtual="includes/footer.html"-->	

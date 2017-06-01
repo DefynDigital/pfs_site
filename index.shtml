@@ -1,0 +1,460 @@
+<!--#include virtual="includes/top.html"-->
+
+	<meta name="keywords" content="Home Loan specialists, Commercial Loans, Business Loans" />
+	<meta name="description" content="PFS is a multi-award winning mortgage broker in Sydney's Hills District. We'll help you select a loan suited to your needs and circumstances, and see it through from application to settlement." />
+
+	<title>PFS Financial Services - Home Loans | Commercial Loans | Business Loans</title>
+
+<!--#include virtual="includes/header_and_nav.html"-->
+				
+				<div id="homeContent">
+					<div id="homeContentLeft">
+						<div id="homeContentLeft_Slideshow">
+<!-- 						<object wmode="transparent" height="208" width="660">
+							<param value="/animation.swf" name="movie" height="208" width="660" />
+							<embed height="208" width="660" src="/animation.swf" wmode="transparent"></embed>
+						</object> -->
+
+
+
+<!-- jQuery library (served from Google) -->
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<!-- bxSlider Javascript file -->
+<script src="jquery.bxslider/jquery.bxslider.min.js"></script>
+<!-- bxSlider CSS file -->
+<link href="jquery.bxslider/jquery.bxslider.css" rel="stylesheet" />
+
+
+
+<div class="slider">
+
+<ul class="bxslider">
+<li>
+<img src="jquery.bxslider/slide-1.png">
+<a href="http://pfsfinancial.net.au/award-winning.shtml" class="slider-btn lm-1">learn more</a>
+</li>
+<li>
+<img src="jquery.bxslider/slide-2.png"> 
+<a href="http://pfsfinancial.net.au/award-winning.shtml" class="slider-btn lm-1">learn more</a>
+
+</li>
+<li>
+<img src="jquery.bxslider/slide-3.png">
+<a href="http://pfsfinancial.net.au/why-pfs.shtml" class="slider-btn lm-2">learn more</a>
+<a href="http://pfsfinancial.net.au/contact-us.shtml" class="slider-btn maa-1">make an appointment</a>
+</li>
+ 
+</ul>
+
+</div>
+
+
+
+<style type="text/css">
+.slider {}
+
+.bx-wrapper .bx-viewport {
+border: 0 none;
+box-shadow: none;
+left: 0;
+}
+
+.bx-wrapper img {
+border-radius: 5px;
+}
+
+.slider-btn {
+border-radius: 3px;
+box-shadow: 1px 1px 0 #000;
+color: #ffffff;
+font-family: Trebuchet MS;
+font-size: 13px;
+font-weight: bold;
+padding: 2px 35px;
+position: absolute;
+text-decoration: none;
+text-transform: capitalize;
+}
+
+.slider-btn:hover,
+.slider-btn:focus {
+box-shadow: none;
+}
+
+.lm-1 {
+bottom: 10px;
+right: 20px;
+background: #146397;
+}
+.lm-2 {
+bottom: 35px;
+left: 33px;
+background: #fd8400;
+}
+.maa-1 {
+bottom: 35px;
+left: 188px;
+background: #146397;
+}
+
+</style>
+
+<script type="text/javascript">
+$('.bxslider').bxSlider({
+auto: true,
+controls: false,
+pager: false
+});
+</script>
+
+
+						</div>
+						<div id="homeMainContent">
+							<h1>PFS Financial Services</h1>
+							<p class="introTxt">We are a multi-award winning brokerage based in Bella Vista, the heart of Sydney&#146;s growing Hills District. Many brokers claim to have the &#145;best service&#146;, but few have actually been awarded as the best like we have!</p>
+							<div id="homeContentFeaturesWithBorder">
+								<a href="home-and-investment-loans.shtml"><img src="includes/templateimages/icons/home-and-investment-loans.png" alt="Home &amp; Investment Loans" /></a>
+								<h2><a href="home-and-investment-loans.shtml">Home &amp; Investment Loans</a></h2>
+								<p>For purchase of a residential loan or residential investment property.
+								<br /><a href="home-and-investment-loans.shtml" class="more">Read More &raquo;</a></p>
+								<hr />
+								<a href="commercial-loans.shtml"><img src="includes/templateimages/icons/commercial-loans.png" alt="Commercial Loans" /></a>
+								<h2><a href="commercial-loans.shtml">Commercial Loans</a></h2>
+								<p>Purchase of factory units, purchase of office spaces and shops, warehouses, land, or refinancing any of these.
+								<br /><a href="commercial-loans.shtml" class="more">Read More &raquo;</a></p>
+							</div>
+							<div id="homeContentFeatures">
+								<a href="business-loans.shtml"><img src="includes/templateimages/icons/business-loans.png" alt="Business Loans" /></a>
+								<h2><a href="business-loans.shtml">Business Loans</a></h2>
+								<p>For purchasing a private business or franchise, cash flow funding, overdrafts.
+								<br /><a href="business-loans.shtml" class="more">Read More &raquo;</a></p>
+								<hr />
+								<a href="car-and-equipment-loans.shtml"><img src="includes/templateimages/icons/car-and-equipment-loans.png" alt="Car &amp; Equipment Loans" /></a>
+								<h2><a href="car-and-equipment-loans.shtml">Car &amp; Equipment Loans</a></h2>
+								<p>Car Loans, Heavy vehicle finance, boat loans &amp; equipment finance (factory equipment, computers, &amp; more)
+								<br /><a href="car-and-equipment-loans.shtml" class="more">Read More &raquo;</a></p>										
+							</div>
+							
+							<br class="clear" />
+							
+							<h2><a href="what-is-a-mortgage-broker.shtml">What <em>IS</em> a Mortgage Broker?</a></h2>
+							<p>Simply put, a mortgage broker is an medium between a client (you) and a panel of banks and lenders. Unlike your bank's consultant, we don't work for a finance provider, so we&#146;re free to search a pool of banks and lenders to find the loan that best suits you and your needs. <a href="what-is-a-mortgage-broker.shtml">Read More &raquo;</a></p>
+
+							<h2><a href="contact-us.shtml">Questions? We have answers. Call us!</a></h2>
+							<p>We pride ourselves on our customer service. Call us, and you&#146;ll speak to a real person &ndash; not a machine. If you have questions about our services, what we can do for you, or if you would like make an appointment to talk with a qualified PFS mortgage broker, <strong>call us on 1300 368 917</strong>. You can also <a href="/contact-us.shtml">send us an e-mail online &raquo;</a></p>
+							<div class="affiliateLogos">
+								 <a href="http://www.mfaa.com.au/" target="_blank"><img src="includes/templateimages/mfaaLogo.png" alt="MFAA Approved Broker" title="MFAA Approved Broker" /></a>
+								 <a href="http://www.planaustralia.com.au/" target="_blank"><img src="/includes/templateimages/PLAN_AU_AccMem_240.jpg" alt="Accredited Member of PLAN Australia" title="Accredited Member of PLAN Australia" /></a>
+							</div>
+						</div>
+					</div>
+					<div id="homeContentRight">
+						<h2><a href="news.shtml"><img src="includes/templateimages/news-col-bg.gif" alt="Latest News" title="Latest News" /></a></h2>
+						<img src="includes/templateimages/news-image.jpg" alt="" />
+						<div id="homeContentNews">
+<!-- Changes 2016-11-15 -->
+<!-- <h2><a name="australian-broker" id="australian-broker"></a>Australian Broker</a></h2>
+
+<p><strong>AMAs crowns Australia’s broker of the year</strong></p>
+<p>The winner of the NAB Australian Brokerage of the Year award was PFS Financial Services. The firm was launched in 2004 by Daniel O'Brien who won the Australian Broker of the Year award in 2008 and the Young Gun of the Year award in 2006.</p>
+<p><a href="http://www.brokernews.com.au/news/breaking-news/amas-crowns-australias-broker-of-the-year-225433.aspx">Click Here to read</a></p>
+ -->
+
+
+</br>
+
+<h2><a name="spring-2016-news" id="spring-2016-news"></a>Summer 2017 - News</a></h2>
+
+<p><strong>How to host a summer house party</strong></p>
+<p>Summer can be a tricky month for entertaining at home. With the sun blazing down, it can get too hot to host.</p>
+
+<p><a href="images/Summer-Newsletter-2017.pdf" target="_blank">Click Here to read newsletter.</a></p>
+
+
+
+ <h2><a name="spring-2016-news" id="spring-2016-news"></a>Australian Broker - Front Cover</a></h2>
+<p>The 15th annual Australian Mortgage Awards were held at The Star Sydney on Friday with Australia's top broker revealed.</p>
+
+<p><a href="/images/aus_broker_cover.pdf" target="_blank">Click here</a></p>
+
+
+ <!--<p><a href="http://www.brokernews.com.au/news/breaking-news/amas-crowns-australias-broker-of-the-year-225433.aspx" target="_blank">Click here</a></p> -->
+<br/>
+<!-- Changes 2016-11-15 -->
+<h2><a name="winter-2016-news" id="winter-2016-news"></a>Industry Spotlight - Daniel O'Brien</a></h2>
+
+ 
+<p><a href="/images/aus_broker_cover.pdf" target="_blank">Click here</a></p>
+
+
+<br/>
+ <h2><a name="spring-2016-news" id="spring-2016-news"></a>Spring 2016 - News</a></h2>
+
+<p><strong>Five things to consider when interest rates are low</strong></p>
+<p>Favourable interest rates are a borrower's best friend, but should you lock in a low rate or go with a variable rate? Here are five things to consider.</p>
+
+ 
+<p><a href="http://d121email.com/22621/0916/index.asp?s=1&n=PLAN-MN" target="_blank">Click Here to read newsletter.</a></p>
+
+<!-- Changes 2016-11-15 -->
+<h2><a name="winter-2016-news" id="winter-2016-news"></a>Winter 2016 - News</a></h2>
+
+<p><strong>Inspired Living</strong></p>
+<p>What's Hot in Property.</p>
+
+<p><strong>Commercial Finance: what is it?</strong></p>
+<p>There are several types of commercial finance that may help grow your business or keep it running efficiently day-to-day.</p>
+<p><a href="/newsletters/PFS-Winter-Newsletter-2016.pdf" target="_blank">Click Here to read newsletter.</a></p>
+
+ 
+
+ <h2>Australia&#39;s best brokers to share their strategies for success</h2>
+ <p>Each year MPA recognises the best in the business in lists like the Top 10 Independent Brokerages and Top 100 brokers rankings and at the Australian Mortgage Awards.</p>
+  <p><a href="http://www.mpamagazine.com.au/sections/business-strategy/australias-best-brokers-to-share-their-strategies-for-success-209608.aspx" target="_blanket">Click here</a></p>
+
+    
+
+                                                    
+<!-- 
+ <h2>2016 Better Business Awards Finalists</h2>
+  <p><a href="http://www.betterbusinesssummit.com.au/2016-finalists/" target="_blanket">Click here</a></p>
+
+  <h2><a name="spring-2015-news" id="spring-2015-news"></a>Summer 2016 - News</a></h2>
+
+<p><strong>Inspired Living</strong></p>
+<p>What is our new PM's stance on housing affordability ?</p>
+
+<p><strong>Things that could trip you up when applying for a home loan</strong></p>
+<p>Buying your dream home is exciting, so the last thing you want is for your home loan application to be held up.</p>
+<p><a href="/newsletters/Summer-Newsletter.pdf" target="_blank">Click Here to read newsletter.</a></p>
+						
+						<h2><a name="spring-2015-news" id="spring-2015-news"></a>Spring 2015 - News</a></h2>
+
+<p><strong>Inspired Living</strong></p>
+<p>What do the APRA announcements mean for your property portfolio?</p>
+
+<p><strong>How to spring clean your budget to buy a home</strong></p>
+<p>Buying your dream home is one of the biggest and most exciting purchases you are ever likely to make.</p>
+<p><a href="/newsletters/Spring 2015.pdf" target="_blank">Click Here to read newsletter.</a></p>
+
+
+<h2><a name="winter-2015-news" id="winter-2015-news"></a>Winter 2015 - News</a></h2>
+
+<p><strong>Inspired Living</strong></p>
+<p>Whether you're looking to sell or upgrade, there are a few sure-fire ways to add value to your property with some clever cosmetics.</p>
+
+<p><strong>How to be tax smart</strong></p>
+<p>It's that time of year! Don't let your tax return get you down - there are lots of clever ways to save money on your tax bill.</p>
+<p><a href="/newsletters/Winter 2015.pdf" target="_blank">Click Here to read newsletter.</a></p>
+	
+						
+
+<h2><a name="summer-2011-news" id="summer-2011-news"></a>Summer 2015 - News</a></h2>
+<p><strong>Inspired Living</strong></p>
+<p>This is summer is expected to be a hot one for the property market. With many economists predicting the official cash rate to remain low for this time</p>              
+<p><strong>Make 2015 your year</strong></p>
+<p>As we move into yet another new year, it's important to take some time to take stock of the year that was and what you want out of the year ahead.</p>
+<p><a href="/newsletters/Summer-2015.pdf" target="_blank">Click Here to read newsletter.</a></p>
+
+
+
+						<h2><a name="summer-2011-news" id="summer-2011-news"></a>Autumn 2015 - News</a></h2>
+                  <p><strong>Inspired Living</strong></p>
+                  <p>Following a strong run in many locations in 2014, sound investment fundamentals and low interest rates continue to make well-selected property an attractive investment selection in 2015.</p>              
+                           <p><strong>Shacking up successfully</strong></p>
+                  <p>With the romance of Valentine's Day still in the air, many may be feeling the romantic urge to take the plunge and shack up with a loved one.</p>
+                  <p><a href="/newsletters/Autumn-2015.pdf" target="_blank">Click Here to read newsletter.</a></p>
+						
+						<h2><a name="summer-2011-news" id="summer-2011-news"></a>Spring 2014 - News</a></h2>
+                  <p><strong>Inspired Living</strong></p>
+                   <p>Traditionally the busiest time of the yesr for both horse racing and real estate the spring property season is just around the corner...</p>          
+             
+                     <p><strong>Spring clean your finances</strong></p>
+                   <p>It's a good idea to review your financing arrangements regularly and what better time to assess the health of your finances than spring?...</p>
+                  
+				  <p><a href="/newsletters/Spring_Newsletter_2014.pdf" target="_blank">Click Here to read newsletter.</a></p>
+						
+						
+						<h2><a name="summer-2011-news" id="summer-2011-news"></a>Winter 2014 - News</a></h2>
+                  <p><strong>No deposit? Three ways to invest in property now.</strong></p>
+                   <p>You may find it difficult to get your property portfoloio off the ground if you have trouble saving for a deposit...</p>          
+             
+                     <p><strong>Buying a bargain from the bank</strong></p>
+                   <p>Repossessed properties can be the bargains investors are looking for, with opportunities to buy into high-growth markets at a lower price...</p>
+                  
+				  <p><a href="/newsletters/Winter_Newsletter_2014.pdf" target="_blank">Click Here to read newsletter.</a></p>
+					
+
+					<h2><a name="summer-2011-news" id="summer-2011-news"></a>Autumn 2014 - Mortgage News</a></h2>
+                  <p><strong>Taking the stress out of home loan applications</strong></p>
+                   <p>The thought of completing a home loan application may seem overwhelming, but it doesn't have to be a stressful process. As with many things in life, a little preparation goes a long way...</p>          
+             
+                     <p><strong>Achieving financial freedom</strong></p>
+                   <p>With a variety of mortgage reduction techniques available, simple, low-risk fortnightly repayments could prove to be a very effective way to help you reach financial freedom sooner</p> -->
+                  
+				<!--   <p><a href="http://www.plantechnology.com.au/nl_bldr/pblcURL.jsp?5+KY+jFo7h5fVterabxrJ6qsRQwXiWKb" target="_blank">Click Here to read newsletter.</a></p>
+			
+			 -->
+				<!--
+				<h2><a name="summer-2011-news" id="summer-2011-news"></a>Summer 2013 - Mortgage News</a></h2>
+                  <p><strong>When was your last financial check-up?</strong></p>
+                   <p>Summer is usually the time when we are most motivated to improve our lives, whether it's by losing those extra winter kilos or finishing that weekend renovation you started. So while you are reassessing and changing other areas of your life, why not look in to your financial health with a quick check-up?</p>          
+             
+                     <p><strong>Controlling your credit cards</strong></p>
+                   <p>In the current climate, many people are aiming to reduce or eliminate their credit card bills - but this isn't as easy in reality, especially if you aren't 100 per cent sure what you owe or how many credit cards you have</p>
+                  
+				  <p><a href="http://www.plantechnology.com.au/nl_bldr/pblcURL.jsp?5+KY+jFo7h5fVterabxrJx3DtJHSIti8" target="_blank">Click Here to read newsletter.</a></p>
+
+
+
+				
+					<h2><a name="summer-2011-news" id="summer-2011-news"></a>Spring 2013 - Mortgage News</a></h2>
+                  <p><strong>Failings of a "fixer upper"</strong></p>
+                   <p>With over 75 per cent of property owners having attempted their own repair or renovation according to Gumtree Tradie Trends Report, 
+				  one in five has messed up a DIY job - with $380 million in repairs as a consequence.</p>          
+             
+                     <p><strong>Making the most of your super</strong></p>
+                   <p>Over the next few years, superannuation benefits will gradually increase to 12 per cent. To ensure there is a nice next egg available
+				  for when you retire, there are number of preparations you need to make now.</p>
+                  
+				  <p><a href="/newsletters/Spring_Newsletter.pdf" target="_blank">Click Here to read newsletter.</a></p>
+			
+			
+						
+					
+					
+						<h2><a name="summer-2011-news" id="summer-2011-news"></a>Autumn 2013 - Mortgage News</a></h2>
+                  <p><strong>Beating the low doc blues</strong></p>
+                   <p>If you're self-employed or own your own business, pulling together all of your financials can be a tough ask - but that shouldn't stand in the way of your securing a home loan.</p>          
+             
+                     <p><strong>Economic wrap</strong></p>
+                   <p>As we approach the end of the financial year, homebuyer confidence and investor demand are both on the rise, according to new research conducted by the Commonwealth Bank of Australia and the Mortgage & Finance Association of Australia.</p>
+                  
+				  <p><a href="http://www.plantechnology.com.au/nl_bldr/pblcURL.jsp?5+KY+jFo7h5fVterabxrJzneO4/5i5GD" target="_blank">Click Here to read newsletter.</a></p>
+			
+		  
+					
+					
+					
+					
+						<h2><a name="summer-2011-news" id="summer-2011-news"></a>Autumn 2013 - Mortgage News</a></h2>
+                  <p><strong>Renovation reality</strong></p>
+                   <p>Turn on the TV on most nights and you're almost certain to come across at least one 'reality' home improvement or renovation program.</p>          
+             
+                     <p><strong>Is it in the budget?</strong></p>
+                   <p>'Budgeting' has to be one of the least appealing words in our vocabulary, but if you're looking to take control of your finances you need to budget. It's that simple.</p>
+                  
+				  <p><a href="http://www.plantechnology.com.au/nl_bldr/pblcURL.jsp?5+KY+jFo7h5fVterabxrJ7UyTxvzgkwm" target="_blank">Click Here to read newsletter.</a></p>
+			
+		
+					<h2><a name="summer-2011-news" id="summer-2011-news"></a>Summer 2012 - Mortgage News</a></h2>
+                  <p><strong>Mastering property auctions</strong></p>
+                  <p>If you're in the market to buy this summer, chances are you will see many properties going to auction - but don't let that scare you off.</p>           
+             
+                     <p><strong>Economic wrap</strong></p>
+                    <p>Warmer weather has seen the Australian economy thaw a little, with loan approvals on the rise and building activity gathering pace.</p>
+                  
+				  <p><a href="http://www.plantechnology.com.au/nl_bldr/pblcURL.jsp?5+KY+jFo7h5fVterabxrJ/vru6V9O/3o" target="_blank">Click Here to read newsletter.</a></p>
+				
+				  			
+						
+						
+						
+								
+						<h2><a name="summer-2011-news" id="summer-2011-news"></a>Spring 2012 - Mortgage News</a></h2>
+                  <p><strong>Eyeing an Apartment?</strong></p>
+                  <p>Apartment living is becoming a popular lifestyle for Australians looking for affordable property, but there are costs and considerations you may not be aware of </p>                  <h3>Benefits of buying new</h3>
+             
+                     <p><strong>The Path to investment success </strong></p>
+                  <p>Residential property can be a great investment selection - but you need to buy well in order to secure the best return </p>
+                  
+				  <p><a href="/newsletters/Newsletter-Spring12.pdf" target="_blank">Click Here to download the PDF file.</a></p>
+
+					
+					
+					
+						<h2><a name="summer-2011-news" id="summer-2011-news"></a>Winter 2012 - Mortgage News</a></h2>
+                <p><strong>The advantages of winter</strong></p>
+                  <p>Striking while the iron is hot isn't always the best approach, particularly in the Australia property market...</p>
+              <p><strong>Benefits of buying new</strong></p>
+                  <p>They say there's nothing quite like the feeling of something new, but does that mean anything when buying a new home? </p>
+                  <p><strong>Looking beyond the big 4</strong></p>
+                  <p>When it comes to financing your home, the local bank is not your only choice. </p>
+                  
+				  <p><a href="/newsletters/winter_newsletter12.pdf" target="_blank">Click Here to download the PDF file.</a></p>
+
+					
+					
+						<h2><a name="summer-2011-news" id="summer-2011-news"></a>Autumn 2012 - Mortgage News</a></h2>
+                  <p><strong>Splitting the cost</strong></p>
+                  <p>Looking to crack the property market buy struggling to raise the necessary deposit? A family member of friend might be able to help you reach your investment goals sooner. </p>
+                 <p><strong>Maximise your rental income</strong></p>
+                  <p>Rental payments help you meet your mortage obligations, so it makes sense to maximise your rental income stream.</p>
+                  <p><strong>Economic wrap</strong></p>
+                  <p>The official cash rate remains on hold once again, but the outlook for home loan interest rates remains less certain. </p>
+                  
+				  <p><a href="/newsletters/Autumn2012.pdf" target="_blank">Click Here to download the PDF file.</a></p>
+
+			
+					<h2><a name="summer-2011-news" id="summer-2011-news"></a>Summer 2011 - Mortgage News</a></h2>
+                  <p><strong>Gunning for growth</strong></p>
+                  <p>While the property market has changed greatly in the last year, there are still opportunities for growth if you know what to hunt for</p>
+                  <p><strong>Sniff out a good deal</strong></p>
+                  <p>If you're in the market for a property purchase. its time to place - and keep - your finger on the real estate pulse. </p>
+                 <p><strong>Economic Wrap</strong></p>
+                  <p>The Reserve Bank of Australia (RBA) now seems quite content to sit tight on rates for the remainder of 2011.</p>
+                  <p>At its September rate meeting, the RBA Board said it could not find enough evidence to support a rate reduction.</p>
+                  <p>While the conditions in global financial markets have been very   unsettled over recent weeks, the Australian economy remains resilient -   with new data showing sound GDP growth.</p>
+<p><a href="/newsletters/Summer11.pdf" target="_blank">Click Here to download the PDF file.</a></p>
+
+
+						
+						
+							<h3><a href="/news.shtml#Spring-2011-Mortgage-News">Spring 2011 - Mortgage News</a></h3>
+							<p><strong>Capitalizing On A Buyers Market<br />
+							</strong>There are real opportunities awaiting home buyers and
+						    investors who are willing to take ...</p>
+							<p><strong>Making the switch</strong><br />
+						    Cash rate stability, increased product choice and flexible   mortgage interest rates have ...</p>
+							<p><strong>Economic Wrap</strong><br />
+						    The Reserve Bank of Australia (RBA) now seems quite content to sit tight on rates for the remainder of 2011.</p>
+							<p><a href="http://www.pfsfinancial.net.au/spring.pdf" target="_blank">Click Here to download the PDF file.</a> <br />
+                            <a href="/news.shtml#Spring-2011-Mortgage-News">Read More &raquo;</a></p>
+							<h3><a href="/news.shtml#winter-2011-Mortgage-News">Winter 2011 - Mortgage News</a></h3>
+                          <p><strong>Honing your negotiation skills</strong> <strong><br />
+                            </strong>Capitalise on market conditions and negotiate yourself a bargain.</strong></p>
+                          <p><strong>Planning Your Renovations</strong><br />
+                            Some areas of the property market have relatively low growth at the moment.</p>
+                            <p><strong>Realities of refinancing<br />
+                          </strong>With the government set to ban exit fees from the start of the coming financial year...</p>
+                            <p><strong>Economic Wrap</strong><br />
+                              The RBA's decision to leave the official cash rate on hold for the seventh consecutive month has done little to improve consumer confidence.</p>
+                            <p><a href="http://www.pfsfinancial.net.au/winter.pdf" target="_blank">Click Here to download the PDF file.</a> <br />
+                              <a href="/news.shtml#winter-2011-Mortgage-News">Read More &raquo;</a></p>
+<h3><a href="/news.shtml#Autumn-2011-Mortgage-News">Autumn 2011 - Mortgage News</a></h3>
+							<p><strong>Strategies for spotting a property lemon<br />
+						    </strong>Not knowing how to spot a property lemon can turn the sweetness of owning your own property into a sour experience.							</p>
+							<p><strong>Mortgage reduction strategies</strong><br />
+						    Make your dream of debt free home ownership a reality with a few simple mortgage reduction ...</p>
+							<p><strong>Avoid the holiday hangover</strong><br />
+						    There&rsquo;s no doubt that holidays help you achieve a better work/life   balance but while it&rsquo;s important to get away ...</p>
+							<p><strong>Economic Wrap</strong><br />
+						  The waters may have subsided, but the economic impact of the recent flood disaster is likely to be felt for some time. </p>
+							<p><a href="http://www.pfsfinancial.net.au/Autumn.pdf" target="_blank">Click Here to download the PDF file.</a> <br />
+							  <a href="/news.shtml#Autumn-2011-Mortgage-News">Read More &raquo;</a></p>
+							<h3><a href="/news.shtml#finance-update-march2011">March 2011 - Finance Update</a></h3>
+<p>The last few months has seen competition slowly creep back into the marketplace. Loan to ...<br /><a href="/news.shtml#finance-update-march2011">Read More &raquo;</a></p> 
+							<!--<h3><a href="/news.shtml#mortgage-news-december-2010">Mortgage News</a></h3>
+							<p>After a 0.25 per cent hike to the official cash rate in November, the Reserve Bank of Australia left rates on hold this month - much to the delight of home owners and prospective buyers across the country.</p>
+							<p>With Christmas now just around the corner, any extra cash in the household budget that would have been channelled into additional mortgage repayments can now be spent on Christmas essentials. <br /><a href="/news.shtml#mortgage-news-december-2010">Read More &raquo;</a></p>
+							<h3><a href="news.shtml#new-website">PFS Launches New Online Presence</a></h3>
+							<p>Here at PFS we are very excited about the launch of our brand new website.</p>
+							<p>Keep an eye on our news section for industry updates and company news, and check out our <a href="loans.shtml">Loans</a> section and find out more about what we do. We'll also be introducing calculators to help you find what you are after online! <br /><a href="news.shtml#new-website">Read More &raquo;</a></p>-->
+							  <br />
+							<a href="news.shtml"><img src="includes/templateimages/read-older-news.gif" alt="Read Older News Articles" /></a>
+						</div>
+					</div>
+					<br class="clear" />
+				</div>
+
+<!--#include virtual="includes/footer.html"-->				

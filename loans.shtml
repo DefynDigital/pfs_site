@@ -1,0 +1,43 @@
+<!--#include virtual="includes/top.html"-->
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+
+	<title>Types of Loans | PFS Financial Services - Home Loans | Commercial Loans | Business Loans</title>
+
+<!--#include virtual="includes/header_and_nav.html"-->
+				
+				<div id="pageContent">
+					<div id="breadCrumb"><p><a href="index.shtml">Home &raquo;</a> Loans</p></div>
+					<h1>Loans</h1>
+					<div id="intro">
+						<img src="/includes/templateimages/icons/what-is-a-mortgage-broker.png" alt="Loans" />
+						<p class="introTxt">At PFS, we will help you select a loan suited to your circumstances, and manage the process from application through to settlement. We do all the legwork for you, and we deal with the bank for you (so you don't have to).</p>
+						<br class="clear" />
+
+							<div id="homeContentFeaturesWithBorder" class="homeContentFeaturesWithBorderFollow">
+								<a href="home-and-investment-loans.shtml"><img src="includes/templateimages/icons/home-and-investment-loans.png" alt="Home &amp; Investment Loans" /></a>
+								<h2><a href="home-and-investment-loans.shtml">Home &amp; Investment Loans</a></h2>
+								<p>For purchase of a residential loan or residential investment property.
+								<br /><a href="home-and-investment-loans.shtml" class="more">Read More &raquo;</a></p>
+								<hr />
+								<a href="commercial-loans.shtml"><img src="includes/templateimages/icons/commercial-loans.png" alt="Commercial Loans" /></a>
+								<h2><a href="commercial-loans.shtml">Commercial Loans</a></h2>
+								<p>Purchase of factory units, purchase of office spaces and shops, warehouses, land, or refinancing any of these.
+								<br /><a href="commercial-loans.shtml" class="more">Read More &raquo;</a></p>
+							</div>
+							<div id="homeContentFeatures" class="homeContentFeaturesWithBorderFollow">
+								<a href="business-loans.shtml"><img src="includes/templateimages/icons/business-loans.png" alt="Business Loans" /></a>
+								<h2><a href="business-loans.shtml">Business Loans</a></h2>
+								<p>For purchasing a private business or franchise, cash flow funding, overdrafts.
+								<br /><a href="business-loans.shtml" class="more">Read More &raquo;</a></p>
+								<hr />
+								<a href="car-and-equipment-loans.shtml"><img src="includes/templateimages/icons/car-and-equipment-loans.png" alt="Car &amp; Equipment Loans" /></a>
+								<h2><a href="car-and-equipment-loans.shtml">Car &amp; Equipment Loans</a></h2>
+								<p>Car Loans, Heavy vehicle finance, boat loans &amp; equipment finance (factory equipment, computers, &amp; more)
+								<br /><a href="car-and-equipment-loans.shtml" class="more">Read More &raquo;</a></p>										
+							</div>
+						</div>
+				</div>
+
+<!--#include virtual="includes/footer.html"-->		

@@ -1,0 +1,90 @@
+<!--#include virtual="includes/top.html"-->
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+
+	<title>Award Winning Loans | PFS Financial Services - Home Loans | Commercial Loans | Business Loans</title>
+
+<!--#include virtual="includes/header_and_nav.html"-->
+				
+				<div id="pageContent">
+					<div id="breadCrumb"><p><a href="index.shtml">Home &raquo;</a> Award Winning</p></div>
+					<h1>Award Winning</h1>
+					
+					<div id="intro">
+						<img src="/includes/templateimages/icons/award-winning.png" alt="Award Winning" />
+						<p class="introTxt">Daniel has been awarded three times at the Australian Mortgage Awards as being the best individual Mortgage Broker in Australia. Daniel has also received numerous other awards at both a state and national level. Many brokers claim to have the 'best service', but few have actually been awarded as the best like we have!</p>
+						<br class="clear" />
+					</div>
+					
+					<div id="txtWithBg">
+						<div id="txtWithBgBtm">
+							<img src="/images/award.png" alt="" />
+							<div class="awardList">
+								<h2>Australian Mortgage Awards</h2>
+								<ul>
+									<li>2009 Australian Mortgage Awards Finalist  'Broker of the Year - Franchise'</li>
+									<li>2008 Australian Mortgage Awards Winner 'Australian Broker of the Year'</li>
+									<li>2008 Australian Mortgage Awards Winner 'Broker of the Year - Independent'</li>
+									<li>2006 Australian Mortgage Awards Winner 'Young Gun of the Year'</li>
+								</ul>
+								<br class="clear" />
+								<h2>Mortgage &amp; Finance Association of Australia (MFAA)</h2>
+								<ul>
+									<li>2007 MFAA Runner Up Up and Coming Broker'</li>
+								</ul>
+								<br class="clear" />
+								<h2>Australian Real Estate Finance Group (AREFG) Awards</h2>
+								<ul>
+									<li>2011 AREFG Awards Winner 'Broker of the Year' – National</li>
+                                    <li>2010 AREFG Awards Winner 'Broker of the Year' – National</li>
+									<li>2009 AREFG Awards Winner 'Broker of the Year' – National</li>
+									<li>2009 AREFG Awards 2nd Place 'Franchise of the Year' – National</li>
+									<li>2008 AREFG Awards Winner 'Broker of the Year' – National</li>
+									<li>2008 AREFG Awards 2nd Place 'Franchise of the Year' – National</li>
+									<li>2007 AREFG Awards Winner 'Broker of the Year' – National</li>
+								</ul>
+							</div>
+							<div class="awardList">
+								<h2>Professional Lenders Association Network of Australia (PLAN Australia)</h2>
+								<ul>
+									<li>2011 PLAN Australia 'Sales Master Diamond'</li>                                    
+                                    <li>2010 PLAN Australia 'Sales Master Diamond'</li>
+									<li>2009 PLAN Australia 'Sales Master Platinum'</li>
+									<li>2008 PLAN Australia 'Sales Master Platinum'</li>
+									<li>2007 PLAN Australia 'Sales Master'</li>
+									<li>2007 PLAN Australia 'Sales Master'</li>
+									<li>2005 PLAN Australia Runner Up 'Rookie of the Year'</li>
+								</ul>
+								<br class="clear" />
+								<h2>Raine and Horne Chairman's Awards</h2>
+								<ul>
+									<li>2008 Raine and Horne Chairman's Awards Winner - Broker of the Year</li>
+								</ul>
+								<br class="clear" />
+								<h2>LJ Hooker Awards</h2>
+								<ul>
+									<li>2006 LJ Hooker Financial Services National Winner 'Number of Loans Settled'</li>
+									<li>2006 LJ Hooker Financial Services NSW Winner 'Number of Loans Settled'</li>
+									<li>2006 LJ Hooker Financial Services NSW Runner Up 'Volume of Loans Settled'</li>
+									<li>2006 LJ Hooker 'Captains Club'</li>
+									<li>2006 LJ Hooker 'Multi-Million Dollar Chapter'</li>
+									<li>2005 LJ Hooker Financial Services Winner 'Rookie of the Year'</li>
+								</ul>
+								<br class="clear" />
+								<h2>Mortgage Professionals Australia (MPA) Top 100 Broker</h2>
+								<ul>
+									<li>2011</li>
+                                    <li>2010</li>
+									<li>2009</li>
+									<li>2008</li>
+									<li>2006</li>
+								</ul>
+							</div>							
+							<br class="clear" /><br />
+							
+						</div>
+					</div>
+				</div>
+
+<!--#include virtual="includes/footer.html"-->	

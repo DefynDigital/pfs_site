@@ -1,0 +1,44 @@
+<!--#include virtual="includes/top.html"-->
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+
+	<title>Business Loans | PFS Financial Services - Home Loans | Commercial Loans | Business Loans</title>
+
+<!--#include virtual="includes/header_and_nav.html"-->
+				
+				<div id="pageContent">
+					<div id="breadCrumb"><p><a href="index.shtml">Home &raquo;</a> <a href="loans.shtml">Loan Types &raquo;</a> Business Loans</p></div>
+					<h1>Business Loans</h1>
+					<div id="intro">
+						<img src="/includes/templateimages/icons/business-loans.png" alt="Business Loans" />
+						<p class="introTxt">We can help you with brokering loans for the purchase of a private business, purchasing a franchise, cash flow funding and working capital, and more.</p>
+						<br class="clear" />
+					</div>					
+					
+					<br class="clear" />
+					
+					<div id="testimonialBanner"><img src="/images/testimonials/business-loans.gif" alt="I wanted you to know that I was very pleased with the quality of service, the support and professionalism that you and your company provided me" title="I wanted you to know that I was very pleased with the quality of service, the support and professionalism that you and your company provided me" /></div>
+					
+					<div id="txtWithBg">
+						<div id="txtWithBgBtm">
+							<img src="/images/houses.jpg" alt="" />
+							<br /><h2>We can help broker business loans for:</h2>
+							<ul class="introTxt">
+								<li class="introTxt">Purchase of a private business</li>
+								<li class="introTxt">Purchase of a franchise business</li>
+								<li class="introTxt">Cash flow funding/Working capital</li>
+								<li class="introTxt">Real Estate Agent Rent Roll Finance</li>
+							</ul>
+							<ul class="introTxt">
+								<li class="introTxt">Overdrafts and Lines of Credits</li>
+								<li class="introTxt">Invoice Financing</li>
+								<li class="introTxt">Trade Finance Facilities</li>
+							</ul>
+							<br class="clear" />
+							
+						</div>
+					</div>
+				</div>
+
+<!--#include virtual="includes/footer.html"-->	

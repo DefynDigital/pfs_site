@@ -1,0 +1,551 @@
+/* -------------------------------------------
+
+TITLE : PFS Financial Services
+
+AUTHOR : Binarix Marketing + Web
+AUTHOR URL : http://www.binarix.com.au
+
+DESCRIPTION : Full Site Styles
+ 
+------------------------------------------ */
+
+.clear {
+	clear: both;
+	height: 0;
+	margin: 0;
+	font-size: 0;
+	}
+	
+/* ------------------------------------------
+ HEADINGS STYLES
+------------------------------------------ */
+
+h1 {
+	color: #F37622;
+	font: 30px/32px Arial,Helvetica,Sans-serif;
+}
+
+h2 {
+	color: #1A5A88;
+	font: bold 15px/21px Arial, Helvetica, Sans-serif;
+	margin: 0 0 10px 0;
+}
+
+h3 {
+	color: #175F8F;
+    font: 14px/21px Arial,Helvetica,Sans-serif;
+    margin: 20px 0 5px;
+}
+
+/* ------------------------------------------
+ LINKS
+------------------------------------------ */
+
+a { color: #175F8F; }
+a:hover { text-decoration: none; }
+
+/* ------------------------------------------
+ TEXT STYLES
+------------------------------------------ */
+
+p, table, td, li  {
+	font: 12px/19px arial, helvetica, sans-serif;
+	color: #4d4d4d;
+	}
+	
+p, table { margin: 0 0 19px 0;}
+ul { margin-top: 0; margin-bottom: 20px; list-style: square; }
+li { margin-bottom: 5px; }
+
+.introTxt {
+	color: #7E7E7E;
+    font: 14px/23px arial,helvetica,sans-serif;
+    margin: 10px 40px 10px 0;
+    padding: 0;
+	}
+	
+hr {
+	border-top: 1px solid #E7EBEA;
+	border-left: 0;
+	border-right: 0;
+	border-bottom: 0;
+	margin: 30px 0;
+	height: 0;
+	padding: 0;
+	clear: both;
+	}
+
+img { border: none; }	
+	
+/* ------------------------------------------
+ GLOBALS AND LAYOUT ELEMENTS
+------------------------------------------ */
+
+html, body {
+	margin: 0;
+	padding: 0;
+    background: #3C90CC url(../templateimages/bg.jpg) top center no-repeat;
+	}
+	
+#wrap {
+    width: 960px;
+	height: auto;
+    margin: 0 auto;
+    }
+	
+#bnnrWrap {
+	height: 142px;
+	width: 960px;
+	background: url(../templateimages/call-us-now.jpg) top right no-repeat;
+	position: absolute;
+	}
+	
+#logo {
+	width: 223px;
+	height: 142px;
+	float: left;
+	}
+	
+#topBanner {
+	float: right;
+	margin: 105px 0 0 0;
+	padding: 0 10px 0 0;
+	font: 14px/19px Arial, Helvetica, Sans-serif;
+	color: #FFF;
+}
+
+	#topBanner a { color: #fff; text-decoration: none; }
+	#topBanner a:hover { color: #a0cae8; }    
+
+#contentWrap {
+	background: #FFF url(../templateimages/top-curve-bg.gif) top left no-repeat;
+	margin:142px 0 0 0;
+	padding: 10px 10px 25px 10px;
+	width: 940px;
+	height: auto;
+}	
+	
+#navWrap {
+	background: url(../templateimages/nav-bg.jpg) top center no-repeat;
+	margin: 0;
+	padding: 0;
+	width: 940px;
+	height: 51px;
+	color: #FFF;
+	}
+	
+/* -------------- SUCKERFISH STARTS HERE --------------  */
+
+#nav, #nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	}
+
+#nav li {
+	cursor: pointer;
+	float: left;
+	margin: 0;
+	}
+	
+#nav li a {
+	color: #FFF;
+    display: block;
+    font: bold 14px/21px arial,helvetica,sans-serif;
+    padding: 15px 35px;
+    text-decoration: none;
+	}
+	
+#nav li a:hover { 
+	color: #fff;
+	text-decoration: none;
+	}
+		
+#nav li ul a, #nav li ul a:visited {	
+	font: normal 11px/14px arial, helvetica, sans-serif;
+	display: block;
+	text-decoration: none;
+	text-align: left;
+	padding: 5px 5px 5px 10px;
+	border-bottom: 1px solid #ebebeb;
+	border-right: 1px solid #ebebeb;
+	border-left: 1px solid #ebebeb;
+	color: #999;
+	width: 150px;
+	background-color: #f6f6f6;
+	text-transform: none;
+	margin: 0;
+	}
+	
+#nav li ul a:hover { 
+	background-image: none;
+	color: #001647;
+	background-color: #ebebeb;
+	}
+	
+#nav li ul li { background-color: none; }
+
+#nav li {
+	float: left;
+	padding: 0;
+	}
+
+#nav li ul {
+	position: absolute;
+	border-bottom: 0;
+	left: -999em;
+	height: auto;
+	width: 160px;
+	margin: 0;
+	padding: 0;
+	background-color: none;
+	}
+
+#nav li li {
+	width: 150px;
+	background-image: none;
+	}
+
+#nav li ul ul { margin: -26px 0 0 186px; }
+
+#nav li:hover ul ul,
+#nav li:hover ul ul ul,
+#nav li.sfhover ul ul {
+	left: -999em;
+	}
+
+#nav li:hover ul,
+#nav li li:hover ul,
+#nav li li li:hover ul,
+#nav li.sfhover ul,
+#nav li li.sfhover ul {
+	left: auto;
+	z-index: 500;
+	}
+
+#nav li:hover, #nav li.sfhover {
+	color: #001647;
+	position: static;
+	}
+
+#nav li ul li:hover, #nav li ul li.sfhover { 
+	background-image: none;
+	background-color: #ebebeb;
+	}
+	
+#homeContent {
+	margin: 10px 0 0 0;
+	padding: 0;
+	width: 940px;
+	height: auto;
+}
+
+#homeContentLeft {
+	float: left;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    width: 660px;
+}
+
+#homeMainContent { padding: 10px; }
+
+#homeMainContent img {
+    float: left;
+    margin: 0 10px 0 0;
+}
+
+#homeMainContent h2  a {	text-decoration: none;	}
+
+#homeContentFeaturesWithBorder {
+	border-right: 1px solid #E7EBEA;
+    float: left;
+    margin: 0;
+    padding: 20px 15px 20px 0;
+    width: 310px;
+}
+
+.homeContentFeaturesWithBorderFollow { width: 444px !important; }
+
+#homeContentFeatures {
+	float: right;
+    margin: 0;
+    padding: 20px 0 20px 15px;
+    width: 299px;
+}
+
+#homeContentFeaturesWithBorder h2, #homeContentFeatures h2 { margin: 0; }
+#homeContentFeaturesWithBorder h2 a, #homeContentFeatures h2 a { text-decoration: none; }
+.more { font-size: 14px; }
+
+.affiliateLogos { padding: 20px 0 0 125px; }
+.affiliateLogos img { padding:0 20px; }
+
+#homeContentRight {
+	background: #F5F5F5;
+	float: right;
+	width: 270px;
+	margin: 0;
+	padding: 0;
+}
+
+#homeContentRight h2 { margin: 0; }
+#homeContentNews { padding: 0 15px 15px 15px; }
+#homeContentNews h3 a { text-decoration: none; }
+
+#homeContentNews p {
+	color: #878787;
+    font: 11px/17px Arial, Helvetica, Sans-serif;
+    margin: 0 0 7px 0;
+}
+
+#pageContent {
+	margin: 10px 0 0 0;
+	padding: 0 10px;
+	width: 920px;
+	height: auto;
+}
+
+#pageContent hr { margin: 20px 0; }
+
+#breadCrumb { }
+
+#breadCrumb p {
+	color: #175F8F;
+	font: 11px/21px Arial,Helvetica,Sans-serif;
+}
+
+#breadCrumb a {
+	color: #878787;
+	text-decoration: none;
+}
+
+#breadCrumb a:hover { text-decoration: underline; }
+
+#intro {
+	height: 88px;
+	margin: 0;
+	padding: 0;
+}
+
+#intro img {
+	float: left;
+	border: none;
+	margin: 0 25px 0 5px;
+}
+
+#intro hr { margin: 20px 0; }
+
+#testimonialBanner {
+	text-align: center;
+	margin: 10px 0 20px;
+	padding: 0;
+}
+
+#whyPFSContent {
+	background: url(../templateimages/orange-box-title-bar.jpg) top left no-repeat;
+	float: left;
+	width: 300px;
+	height: auto;
+	padding: 0;
+	margin: 0;
+}
+
+#whyPFSContentCenter {
+	background: url(../templateimages/orange-box-title-bar.jpg) top left no-repeat;
+	float: left;
+	width: 300px;
+	height: auto;
+	padding: 0;
+	margin: 0 10px;
+}
+
+#whyPFSContent h2, #whyPFSContentCenter h2 {
+	color: #FFF;
+    font: bold 15px/32px Arial,Helvetica,Sans-serif;
+    margin: 0;
+	padding: 0 15px;
+}
+
+.whyPFSTxt {
+	background: #F5F5F5;
+	width: 270px;
+	padding: 15px;
+	margin: 0;
+}
+
+.heading {
+	color: #175F8F;
+	font: 14px/21px Arial,Helvetica,Sans-serif;
+	margin: 0 0 5px 0;
+}
+
+.headingSml {	font: 12px/21px Arial,Helvetica,Sans-serif;	}
+
+.awardTxt {
+	color: #888;
+	font: 14px/19px arial,helvetica,sans-serif;
+}
+
+.awardTxt img {
+	float: left;
+	border: none;
+	margin: 0 5px 0 0;
+}
+
+#loanBnrLeft {
+	float: left;
+	width: 310px;
+	height: auto;
+	padding: 0;
+	margin: 0;
+}
+
+#loanBnrLeft ul {
+	list-style: square;
+    margin: 0;
+    padding: 0 0 0 30px;
+}
+
+#loanBnrLeft li {
+	padding: 0;
+	margin: 0;
+}
+
+#loanBnrLeft li a {
+	color: #1A5A88;
+	font: 12px/21px Arial,Helvetica,Sans-serif;
+}
+
+#loanBnrRightTop {
+	background: url(../templateimages/bluebox_loans-top-curve.gif) no-repeat left top;
+    float: right;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    width: 610px;
+}
+
+#loanBnrRightBtm {
+	background: url(../templateimages/bluebox_loans-bottom-curve.gif) no-repeat left bottom #E4F2FB;
+    float: right;
+    height: auto;
+    margin: 9px 0 10px 0;
+    padding: 10px 0 10px 15px;
+    width: 595px;
+}
+
+#loanBnrRightBtm img {
+	float: right;
+	border: 0;
+}
+
+#loanBnrRightBtm h2 {
+	color: #1A5A88;
+	font: bold 16px/21px Arial,Helvetica,Sans-serif;
+	margin: 0 0 10px;
+}
+
+#loanBnrRightBtm ul {
+	list-style: square;
+    padding: 0 0 0 25px;
+    width: 320px;
+	margin: 0;
+}
+
+#loanBnrRightBtm li {
+	margin: 0;
+	padding: 0;
+}
+
+#loanTxt {
+	margin: 0;
+	padding: 0;
+}
+
+.anchor { text-align: right; }
+
+#txtWithBg {
+	background: url(../templateimages/bluebox_whatis-top-curve.gif) top left no-repeat #E4F2FB;
+	width: 915px;
+	height: auto;
+	margin: 0;
+    padding: 10px 0 0 0;
+}
+
+#txtWithBgBtm {
+	background: url(../templateimages/bluebox_whatis-bottom-curve.gif) no-repeat left bottom;
+	width: 900px;
+	height: auto;
+	margin: 0;
+	padding: 0 0 10px 15px;
+}
+
+#txtWithBgBtm img {
+	float: right;
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+#txtWithBgBtm ul {
+	list-style: square;
+	margin: 0;
+    padding: 0 0 0 30px;
+	float: left;
+	width: 300px;
+}
+
+#txtWithBgBtm ul.fullwidth { width: 600px; }
+
+#txtWithBgBtm li {
+	margin: 0;
+	padding: 0;
+}
+
+.awardList {
+	float: left;
+	width: 343px;
+}
+
+.awardList h2 { margin: 10px 0; }
+
+#googleMap {
+	float: right;
+	margin: 0 0 0 10px;
+	padding: 0;
+	border: 1px solid #D4D6C8;
+}
+
+#contactTxt {
+	float: left;
+	margin: 0 0 0 96px;
+	padding: 0;
+}
+
+#footer {
+	background: url(../templateimages/footer-bg.gif) top left no-repeat;
+	padding: 20px;
+	margin: 0;
+	width: 920px;
+	height: 20px;
+}
+
+#footer p {
+	color: #FFF;
+	font-size: 14px;
+}
+
+#binarix {
+	width: 960px;
+	margin: 0 auto;
+	padding: 5px 0;
+}
+
+#binarix a {
+	color: #68BAF4;
+	font-size: 10px;
+	text-decoration: none;
+}
+
+#binarix a:hover { text-decoration: underline; }

@@ -1,0 +1,47 @@
+<!--#include virtual="includes/top.html"-->
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+
+	<title>What is a Mortgage Broker? | PFS Financial Services - Home Loans | Commercial Loans | Business Loans</title>
+
+<!--#include virtual="includes/header_and_nav.html"-->
+				
+				<div id="pageContent">
+					<div id="breadCrumb"><p><a href="index.shtml">Home &raquo;</a> <a href="why-pfs.shtml">Why PFS &raquo;</a> What is a Mortgage Broker?</p></div>
+					<h1>What is a Mortgage Broker?</h1>
+					<h2>What is a mortgage broker, and what will a broker do for me?</h2>
+					<div id="intro">
+						<img src="/includes/templateimages/icons/what-is-a-mortgage-broker.png" alt="What is a Mortgage Broker" />
+						<p class="introTxt">Simply put, a mortgage broker is an independent medium between a client (you) and a panel of banks and finance providers. Unlike a bank salesperson or consultant, we don't work for a finance provider. This allows us to search a pool of banks and lenders to find the loan that best suits you and your needs.</p>
+						<br class="clear" />
+					</div>
+					
+					<br class="clear" />
+					
+					<div id="testimonialBanner"><img src="/images/testimonials/what-is-a-mortgage-broker.gif" alt="I would like to express my appreciation for your efficient team operation in our recent purchases. With that seemed to me as a mountain to overcome, you ran the gauntlet on our behalf and come thru with the goods with no pain for myself and my wife. – R.C." title="I would like to express my appreciation for your efficient team operation in our recent purchases. With that seemed to me as a mountain to overcome, you ran the gauntlet on our behalf and come thru with the goods with no pain for myself and my wife. – R.C." /></div>
+					
+					<h2>The benefit of working with a mortgage broker:</h2>
+					
+					<div id="txtWithBg">
+						<div id="txtWithBgBtm">
+							<img src="/images/houses.jpg" alt="" />
+							<p class="introTxt">As brokers, we work with clients to determine their borrowing needs and ability. We then select a loan suited to their circumstances and manage the process from application through to settlement. Some benefits of using a broker are:</p>
+							
+							<ul>
+								<li>We do all the legwork for you</li>
+								<li>Access to a wider range of loans</li>
+								<li>Greater expertise and experience, as we are doing home loans every day</li>
+							</ul>
+							<ul>
+								<li>More flexible</li>
+								<li>We deal with the bank for you (so you don't have to)</li>
+								<li>Brokers have ongoing working relationships with banks, which you as a customer can leverage off</li>
+							</ul>
+							<br class="clear" />
+							
+						</div>
+					</div>
+				</div>
+
+<!--#include virtual="includes/footer.html"-->	

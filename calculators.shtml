@@ -1,0 +1,44 @@
+<!--#include virtual="includes/top.html"-->
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+
+	<title>Calculators | PFS Financial Services - Home Loans | Commercial Loans | Business Loans</title>
+
+<!--#include virtual="includes/header_and_nav.html"-->
+				
+				<div id="pageContent">
+					<div id="breadCrumb"><p><a href="index.shtml">Home &raquo;</a> Calculators</p></div>
+					<h1>Calculators</h1>					
+								
+					<h2>Basic Loan Repayments</h2>
+					<p>Calculate how much your home loan repayments will be by comparing options like fortnightly repayments, interest rates and length of loan. <a target="_blank" onclick="window.open('http://www.planabettermortgage.com.au/loan-calculators/basic-loan-repayments.htm','popup','width=950,height=800,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="http://www.planabettermortgage.com.au/loan_calculators/lc2009/basicloanrepayments.html">Open Calculator &raquo;</a>
+					</p>
+					<hr />		
+					<h2>Extra Repayments</h2>
+					<p>Calculate your home loan repayments with extra repayments and results of time and interest saved. <a target="_blank" onclick="window.open('http://www.planabettermortgage.com.au/loan-calculators/extra-repayments.htm','popup','width=950,height=800,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="http://www.planabettermortgage.com.au/loan_calculators/lc2009/extrarepayments.html">Open Calculator &raquo;</a>
+					</p>
+					<hr />		
+					<h2>How Long to Repay</h2>
+					<p>Simple calculation of repayments resulting in loan term and overall cost of loan. <a target="_blank" onclick="window.open('http://www.planabettermortgage.com.au/loan-calculators/how-long-to-repay.htm','popup','width=950,height=680,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="http://www.planabettermortgage.com.au/loan_calculators/lc2009/howlongtorepay.html">Open Calculator &raquo;</a>
+					</p>
+					<hr />		
+					<h2>Lump Sum Payments</h2>
+					<p>Simple calculation of how a lump sum payment lowers the loan term and overall cost of loan. <a target="_blank" onclick="window.open('http://www.planabettermortgage.com.au/loan-calculators/lump-sum-payments.htm','popup','width=950,height=800,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="http://www.planabettermortgage.com.au/loan_calculators/lc2009/lumpsumpayment.html">Open Calculator &raquo;</a>
+					</p>
+					<hr />		
+					<h2>P &amp; I / Interest Only</h2>
+					<p>Compare the loan repayments between a principal and interest loan or an interest only loan. <a target="_blank" onclick="window.open('http://www.planabettermortgage.com.au/loan-calculators/p--i--interest-only.htm','popup','width=950,height=680,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="http://www.planabettermortgage.com.au/loan_calculators/lc2009/principalandinterest.html">Open Calculator &raquo;</a>
+					</p>
+					<hr />		
+					<h2>Stamp Duty</h2>
+					<p>Check stamp duty fees and charges depending on which state you are in. <a target="_blank" onclick="window.open('http://www.planabettermortgage.com.au/loan-calculators/stamp-duty.htm','popup','width=700,height=500,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="http://www.planabettermortgage.com.au/loan-calculators/stamp-duty.htm">Open Calculator &raquo;</a>
+					</p>
+					<hr />		
+					<h2>Income Tax</h2>
+					<p>Calculate your income tax based on what you earn and what year. <a target="_blank" onclick="window.open('http://www.planabettermortgage.com.au/loan-calculators/income-tax.htm','popup','width=750,height=630,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="http://www.planabettermortgage.com.au/loan_calculators/lc2009/tax.html">Open Calculator &raquo;</a>
+					</p>
+					
+				</div>
+
+<!--#include virtual="includes/footer.html"-->	
